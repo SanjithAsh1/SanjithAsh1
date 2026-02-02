@@ -1,42 +1,45 @@
-# Hi there 👋
+# Hi, I'm Sanjith 👋
 
-I'm Sanjith , Aspiring Data Analyst
-
-I love turning data into insights and ideas into real projects.  
-
-Currently learning, building, and exploring the world of **Data Analytics, Machine Learning, and Business Analysis**.
+## 👨‍💻 Who Am I
+I’m a student and aspiring tech professional passionate about **Data Analytics, Artificial Intelligence, and problem solving**.  
+I enjoy turning ideas into real projects and using data to find meaningful insights.
 
 ---
 
-## 🧠 About Me
-- 🎓 Student passionate about technology & innovation  
-- 📊 Interested in Data Analytics, AI, and intelligent systems  
-- 🧩 Love solving real-world problems with data  
-- 📈 Currently leveling up my skills in Analysis  
-- ⚡ Believe in learning by building projects  
+## 🚀 What I'm Currently Working On
+- Improving my skills in **Data Analytics & Business Analysis**
+- Learning more about **Machine Learning**
+- Building projects to strengthen my practical knowledge
+- Exploring real-world datasets and dashboard creation
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tools & Technologies I Use
 
-**Languages**
-- Python 🐍  
+**Programming & Query Languages**
+- Python  
 - SQL  
 - Java  
-- HTML, CSS 
 
-**Data & Analytics Tools**
+**Data & Analytics**
 - Power BI  
 - Excel  
 - Pandas  
 - NumPy  
-- Matplotlib 
+- Matplotlib  
+
+**Other Skills**
+- Data Cleaning  
+- Data Visualization  
+- Dashboard Development  
+- Basic Machine Learning  
 
 ---
 
-## 🎯 Current Goals
-- Master Data Analytics & Business Analysis  
-- Build advanced ML projects  
-- Contribute to open-source  
-- Create impactful tech solutions  
+## 📫 How to Reach Me
+- Open to collaborating on **data, analytics, and AI projects**
+- You can connect with me here on GitHub and explore my work
+- You can also reach me on LinkedIn 'www.linkedin.com/in/sanjith-kumar-analyst'
+---
 
+⭐ Always learning. Always building.
