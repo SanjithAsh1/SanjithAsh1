@@ -1,8 +1,9 @@
-# Hi there 👋 I'm Sanjith
+# Hi there 👋
 
-🚀 Aspiring Data Analyst | AI & ML Enthusiast | Problem Solver  
+I'm Sanjith , Aspiring Data Analyst
 
 I love turning data into insights and ideas into real projects.  
+
 Currently learning, building, and exploring the world of **Data Analytics, Machine Learning, and Business Analysis**.
 
 ---
